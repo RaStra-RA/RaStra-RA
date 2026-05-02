@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ritma 👋
 
-<!--
-**RaStra-RA/RaStra-RA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python developer based in Latvia  
+🤖 Passionate about AI tools & automation  
+🎙️ Building speech-to-text solutions (Latvian, Russian, English)  
+📊 Data analysis & visualization  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-AI-black?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+## 📫 Find me
+
+- 💼 [Fiverr](https://www.fiverr.com/ra_stra)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ritma-stra-8773a3275)
