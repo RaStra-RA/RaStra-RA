@@ -16,3 +16,4 @@
 
 - 💼 [Fiverr](https://www.fiverr.com/ra_stra)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ritma-stra-8773a3275)
+- 🔗 https://www.upwork.com/freelancers/~01b41600de9b3ab2af?mp_source=share
